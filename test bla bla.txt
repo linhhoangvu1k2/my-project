@@ -1,1 +1,4 @@
 Xin chào tất cả các bạn nhé 
+Mình là Vũ Hoàng Linh đây 
+Hôm nay mình sẽ hướng dẫn các bạn cài git và git hub nha 
+Thanks for listening
